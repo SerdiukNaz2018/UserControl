@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Component\Component\obj\Debug\Component.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Component\Component\obj\Debug\Component.Properties.Resources.resources
+C:\Users\Admin\source\repos\Component\Component\obj\Debug\Component.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Component\Component\obj\Debug\Component.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Component\Component\bin\Debug\Component.exe.config
+C:\Users\Admin\source\repos\Component\Component\bin\Debug\Component.exe
+C:\Users\Admin\source\repos\Component\Component\bin\Debug\Component.pdb
+C:\Users\Admin\source\repos\Component\Component\obj\Debug\Component.exe
+C:\Users\Admin\source\repos\Component\Component\obj\Debug\Component.pdb
+C:\Users\Admin\source\repos\Component\Component\obj\Debug\Component.Form1.resources
